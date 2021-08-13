@@ -5,3 +5,7 @@
       group: 
         name: ibm
         state: present
+    - name: useradd
+      user: 
+        name: harry
+        state: present

@@ -1,5 +1,8 @@
+[test]
+servera
 [web]
-system1
-
+serverb
+[prod]
+serverc
 [dev]
-system3
+serverd
